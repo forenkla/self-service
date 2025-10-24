@@ -1,4 +1,3 @@
 collections:
   - name: jboivie.utm_manager
     version: "1.0.1"
-    server: published
