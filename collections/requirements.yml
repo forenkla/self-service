@@ -1,2 +1,3 @@
 collections:
   - name: jboivie.utm_manager
+    source: https://aap25.containersarelinux.net/pulp_ansible/galaxy/published/
