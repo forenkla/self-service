@@ -1,3 +1,4 @@
 collections:
   - name: jboivie.utm_manager
     source: https://aap25.containersarelinux.net/pulp_ansible/galaxy/published/
+    token = dcfbecc1afa20c514c3a4cd51e9806671e72798d
